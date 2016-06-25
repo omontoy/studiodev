@@ -71,7 +71,7 @@ header nav a.active {
 }
 
 #home .social a {
-    color: #00aced;
+    color: red;
     display: inline-block;
     border-radius: 50%;
     background-color: black;
